@@ -1,0 +1,92 @@
+*{
+	box-sizing:borderbox;
+	font-family: 'Mingzat', sans-serif;
+	
+}
+
+.container_12{
+	
+	background-color:#F3EFEE;
+	margin-top:40px;
+	
+}
+
+.banner{
+	text-align:center;
+	font-size:55px;
+    font-weight:bold;
+	color:#AD1AC0;
+	
+}
+.cover{
+	
+	margin-top:10px;
+}
+
+.menu{
+	
+	/*border-style:solid;*/
+	text-align:center;
+	margin-top:10px;
+	background-color:#AD1AC0;
+	
+}
+
+.menu a{
+	
+	color:white;
+	font-weight:bold;
+	text-decoration:none;
+	display:block;
+}
+
+.section{
+	
+	/*border-style:solid;*/
+	height:40px;
+	margin-top:10px;
+	text-align:center;
+	background-color:#AD1AC0;
+	font-weight:bold;
+	color:white;
+}
+
+.eproduct{
+	
+	/*border-style:solid;*/
+	margin-top:10px;
+	height:300px;
+}
+
+.eprice{
+	/*border-style:solid;*/
+	background-color:red;
+	color:white;
+	font-weight:bold;
+}
+
+.btn_eproduct{
+	
+	margin-left:50px;
+	border-width:0px;
+	background-color:green;
+	color:white;
+	border-radius:3px;
+	font-weight:bold;
+}
+
+.contact{
+	
+	margin-top:10px;
+}
+
+.footer{
+	/*border-style:solid;*/
+	height:150px;
+	margin-top:10px;
+	text-align:center;
+	background-color:#AD1AC0;
+	font-weight:bold;
+	color:white;
+	
+}
